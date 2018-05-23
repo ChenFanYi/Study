@@ -12,3 +12,6 @@ class Student{
         return this.name+this.age;
     }
 }
+function time(){
+    id
+}
