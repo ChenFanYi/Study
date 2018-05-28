@@ -13,5 +13,5 @@ class Student{
     }
 }
 function time(){
-    id
+    document.getElementById("pid").innerHTML=new Date().toDateString();
 }
