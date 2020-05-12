@@ -1,10 +1,10 @@
-#debug{
+#debug {
     position: relative;
     top: -600px;
-    left:330px ;
-    
+    left: 330px;
 }
-#text{
+
+#text {
     font-size: larger;
     color: rgb(45, 151, 86);
 }
