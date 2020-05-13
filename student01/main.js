@@ -17,3 +17,4 @@ function addElement() {
 
 showtime();
 addElement();
+document.getElementById

@@ -1,0 +1,6 @@
+{
+    "javascript..autoComplete.addBrackets": true,
+    "javascript.autoClosingTags": true,
+    "typescript.useCodeSnippetsOnMethodSuggest": true
+
+}
